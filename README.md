@@ -1,4 +1,5 @@
 # Algo-assignment
 Code Challenge schedule assignee
 
-## Run on chrome browser
+# Instructions 
+* Open the index.html in chrome browser
