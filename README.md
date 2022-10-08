@@ -2,4 +2,4 @@
 Code Challenge schedule assignee
 
 # Instructions 
-* Open the index.html in chrome browser
+* Open index.html in chrome browser
